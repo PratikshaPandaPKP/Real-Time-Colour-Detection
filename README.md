@@ -12,7 +12,7 @@
 
 **3. Note:**
 
-"color_recognition.py" works as main.py to run this project
+- "color_recognition.py" works as main.py to run this project
 
 
 **Video Link of The Project in Action:-** 
