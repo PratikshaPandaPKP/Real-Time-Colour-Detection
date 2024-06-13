@@ -11,5 +11,10 @@
    - The frame is shown in a window until the 'Escape' key is pressed.
 
 **3. Note:**
+
+"color_recognition.py" works as main.py to run this project
+
+
 **Video Link of The Project in Action:-** 
+
 https://www.loom.com/share/80dc210d96d143a78ea071f9047d6361?sid=e6a707d1-e66d-437b-9f33-65d60af67551
